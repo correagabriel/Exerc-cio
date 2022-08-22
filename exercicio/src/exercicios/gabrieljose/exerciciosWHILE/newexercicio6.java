@@ -1,3 +1,4 @@
+package exercicios.gabrieljose.exerciciosWHILE;
 public class newexercicio6 {
     public static void main(String[] args) {
     

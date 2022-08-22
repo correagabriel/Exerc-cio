@@ -1,3 +1,4 @@
+package exercicios.gabrieljose.exerciciosFOR;
 public class newexercicio4 {
     public static void main(String[] args) {
         

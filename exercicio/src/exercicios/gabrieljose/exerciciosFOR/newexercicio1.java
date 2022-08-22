@@ -1,3 +1,4 @@
+package exercicios.gabrieljose.exerciciosFOR;
 public class newexercicio1 {
     public static void main(String[] args) {
         for(int n1 = 150; n1 < 300; n1++) {
