@@ -5,13 +5,15 @@ public class vendas {
         salario vendas = new salario();
 
         vendas.VendedorNome(" Josuke Higashikawa ");
+        vendas.SalarioBase();
+            System.out.println("");
         vendas.ProdutosNome(" Nintendo Switch ");
         vendas.ValorProduto(2369.50D);
         vendas.Quantidade(10);
-
-        vendas.SalarioBase();
+            System.out.println("");
 
         vendas.Vendas();
+            System.out.println("");
         vendas.Salario();
     }
 }
