@@ -1,0 +1,106 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch sobremim",
+            "request": "launch",
+            "mainClass": "Scan.sobremim",
+            "projectName": "exercicio_e430d0c2",
+            "args": [
+                "Jotaro",
+                "19",
+                "1.90",
+                "Aranhaverso"
+            ]
+        },
+        
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "exercicio_e430d0c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch testandoscann",
+            "request": "launch",
+            "mainClass": "Scan.testandoscann",
+            "projectName": "exercicio_e430d0c2",
+            
+        },
+        {
+            "type": "java",
+            "name": "Launch Correntista",
+            "request": "launch",
+            "mainClass": "exercicios.contacorrente.Correntista",
+            "projectName": "exercicio_e430d0c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch newexercicio1",
+            "request": "launch",
+            "mainClass": "exercicios.gabrieljose.exerciciosFOR.newexercicio1",
+            "projectName": "exercicio_e430d0c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch newexercicio2",
+            "request": "launch",
+            "mainClass": "exercicios.gabrieljose.exerciciosFOR.newexercicio2",
+            "projectName": "exercicio_e430d0c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch newexercicio3",
+            "request": "launch",
+            "mainClass": "exercicios.gabrieljose.exerciciosFOR.newexercicio3",
+            "projectName": "exercicio_e430d0c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch newexercicio4",
+            "request": "launch",
+            "mainClass": "exercicios.gabrieljose.exerciciosFOR.newexercicio4",
+            "projectName": "exercicio_e430d0c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch newexercicio5",
+            "request": "launch",
+            "mainClass": "exercicios.gabrieljose.exerciciosFOR.newexercicio5",
+            "projectName": "exercicio_e430d0c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch newexercicio6",
+            "request": "launch",
+            "mainClass": "exercicios.gabrieljose.exerciciosWHILE.newexercicio6",
+            "projectName": "exercicio_e430d0c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch vendas",
+            "request": "launch",
+            "mainClass": "exercicios.registrosdovendedor.vendas",
+            "projectName": "exercicio_e430d0c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch usuario",
+            "request": "launch",
+            "mainClass": "metodo.usuario",
+            "projectName": "exercicio_e430d0c2"
+        }
+    ]
+}
